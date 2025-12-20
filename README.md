@@ -16,6 +16,8 @@ The PT1 exam is divided into three sections: Application, Network and Active Dir
 
 PT1 also offers flexibility, with time management becoming a key skill. Candidates have 48 hours to complete the different sections at their own pace.
 
+Source: https://tryhackme.com/certification/junior-penetration-tester
+
 # Technologies
 
 ### Technical Profficieny:
